@@ -1,0 +1,17 @@
+E:\C#\C#_REPOS\StudentAPI\Student.Business\bin\Debug\net8.0\Student.Business.deps.json
+E:\C#\C#_REPOS\StudentAPI\Student.Business\bin\Debug\net8.0\Student.Business.dll
+E:\C#\C#_REPOS\StudentAPI\Student.Business\bin\Debug\net8.0\Student.Business.pdb
+E:\C#\C#_REPOS\StudentAPI\Student.Business\bin\Debug\net8.0\Student.Enums.dll
+E:\C#\C#_REPOS\StudentAPI\Student.Business\bin\Debug\net8.0\Student.Model.dll
+E:\C#\C#_REPOS\StudentAPI\Student.Business\bin\Debug\net8.0\Student.Enums.pdb
+E:\C#\C#_REPOS\StudentAPI\Student.Business\bin\Debug\net8.0\Student.Model.pdb
+E:\C#\C#_REPOS\StudentAPI\Student.Business\obj\Debug\net8.0\Student.Business.csproj.AssemblyReference.cache
+E:\C#\C#_REPOS\StudentAPI\Student.Business\obj\Debug\net8.0\Student.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#_REPOS\StudentAPI\Student.Business\obj\Debug\net8.0\Student.Business.AssemblyInfoInputs.cache
+E:\C#\C#_REPOS\StudentAPI\Student.Business\obj\Debug\net8.0\Student.Business.AssemblyInfo.cs
+E:\C#\C#_REPOS\StudentAPI\Student.Business\obj\Debug\net8.0\Student.Business.csproj.CoreCompileInputs.cache
+E:\C#\C#_REPOS\StudentAPI\Student.Business\obj\Debug\net8.0\Student..9ECBB527.Up2Date
+E:\C#\C#_REPOS\StudentAPI\Student.Business\obj\Debug\net8.0\Student.Business.dll
+E:\C#\C#_REPOS\StudentAPI\Student.Business\obj\Debug\net8.0\refint\Student.Business.dll
+E:\C#\C#_REPOS\StudentAPI\Student.Business\obj\Debug\net8.0\Student.Business.pdb
+E:\C#\C#_REPOS\StudentAPI\Student.Business\obj\Debug\net8.0\ref\Student.Business.dll

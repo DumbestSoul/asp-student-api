@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ra5/vSV7vipX+VftBnYXLX7F5hRL/DujNyH3Op2Q2zQ95LZTvPT1I+a3+f829EsFJ92sIfcyU1Onc2InEqKQ9A==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\C#_REPOS\\StudentAPI\\StudentAPI\\StudentAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\rajat\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rajat\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\rajat\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\rajat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\rajat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

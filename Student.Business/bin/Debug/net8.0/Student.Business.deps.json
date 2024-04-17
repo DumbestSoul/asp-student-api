@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Student.Business/1.0.0": {
+        "dependencies": {
+          "Student.Enums": "1.0.0",
+          "Student.Model": "1.0.0"
+        },
+        "runtime": {
+          "Student.Business.dll": {}
+        }
+      },
+      "Student.Enums/1.0.0": {
+        "runtime": {
+          "Student.Enums.dll": {}
+        }
+      },
+      "Student.Model/1.0.0": {
+        "dependencies": {
+          "Student.Enums": "1.0.0"
+        },
+        "runtime": {
+          "Student.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Student.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Student.Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Student.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

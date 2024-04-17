@@ -1,0 +1,11 @@
+E:\C#\C#_REPOS\StudentAPI\Student.Enums\bin\Debug\net8.0\Student.Enums.deps.json
+E:\C#\C#_REPOS\StudentAPI\Student.Enums\bin\Debug\net8.0\Student.Enums.dll
+E:\C#\C#_REPOS\StudentAPI\Student.Enums\bin\Debug\net8.0\Student.Enums.pdb
+E:\C#\C#_REPOS\StudentAPI\Student.Enums\obj\Debug\net8.0\Student.Enums.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#_REPOS\StudentAPI\Student.Enums\obj\Debug\net8.0\Student.Enums.AssemblyInfoInputs.cache
+E:\C#\C#_REPOS\StudentAPI\Student.Enums\obj\Debug\net8.0\Student.Enums.AssemblyInfo.cs
+E:\C#\C#_REPOS\StudentAPI\Student.Enums\obj\Debug\net8.0\Student.Enums.csproj.CoreCompileInputs.cache
+E:\C#\C#_REPOS\StudentAPI\Student.Enums\obj\Debug\net8.0\Student.Enums.dll
+E:\C#\C#_REPOS\StudentAPI\Student.Enums\obj\Debug\net8.0\refint\Student.Enums.dll
+E:\C#\C#_REPOS\StudentAPI\Student.Enums\obj\Debug\net8.0\Student.Enums.pdb
+E:\C#\C#_REPOS\StudentAPI\Student.Enums\obj\Debug\net8.0\ref\Student.Enums.dll
